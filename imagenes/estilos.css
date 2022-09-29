@@ -1,0 +1,21 @@
+.imagen{
+    text-align: left;
+    width: 50%;
+}
+.pcuadrado{
+    height: 200px;
+    width: 60%;
+    width: 200px;
+    background-color: blueviolet;
+    margin-bottom: 5px;
+}
+.padre{
+    display: flex;
+    flex-direction:row-reverse;
+}
+body{
+    background-color: cornflowerblue;
+}
+button{
+    text-align: left;
+}
